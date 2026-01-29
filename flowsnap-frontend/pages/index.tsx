@@ -51,7 +51,7 @@ export default function Home() {
               <h2 className="text-2xl font-semibold text-blue-700 mb-4">What it does</h2>
               <p className="text-base text-gray-700">
                 FlowSnap is a no-code, drag-and-drop DeFi automation app built on
-                Polygon's decentralized blockchain. It empowers users to
+                Aleo&apos;s decentralized blockchain. It empowers users to
                 craft sophisticated crypto trading and DeFi workflows
                 effortlessly, leveraging AI-driven analytics, real-time market
                 data, and secure onchain execution to optimize strategies like
