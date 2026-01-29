@@ -30,7 +30,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">Welcome to Infinio</h1>
           <p className="text-lg max-w-2xl mx-auto mb-8 text-gray-700">
-            A no-code DeFi automation app built on Polygon's decentralized
+            A no-code DeFi automation app built on Aleo&apos;s decentralized
             blockchain, empowering users with AI-driven trading workflows.
           </p>
           <Link
@@ -86,7 +86,7 @@ export default function Home() {
                 <li>TypeScript: To ensure type-safe, maintainable code.</li>
                 <li>Tailwind CSS: For a responsive, customizable drag-and-drop interface.</li>
                 <li>
-                  Polygon's Blockchain Services: Chain for smart contracts, Compute for
+                  Aleo&apos;s Blockchain Services: Chain for smart contracts, Compute for
                   AI, Storage for data, and DA for scalability.
                 </li>
                 <li>IPFS: For decentralized asset storage (e.g., workflow visuals).</li>
@@ -99,7 +99,7 @@ export default function Home() {
               <p className="text-base text-gray-700">
                 We started with a prototype using Next.js and Tailwind CSS to
                 design an intuitive drag-and-drop interface. Smart contracts were
-                developed and deployed on 0G Chain to handle workflow execution.
+                developed and deployed on Aleo Chain to handle workflow execution.
                 0G Compute powered AI models for market analysis, while 0G
                 Storage secured user data. Iterative UI/UX refinements and
                 subgraph integration for data querying completed the platform,
@@ -111,7 +111,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h2 className="text-2xl font-semibold text-blue-700 mb-4">What we learned</h2>
               <p className="text-base text-gray-700">
-                We gained deep insights into Polygon's modular architecture, mastering
+                We gained deep insights into Aleo&apos;s modular architecture, mastering
                 the synergy of its Chain, Compute, and Storage layers. Balancing
                 AI accuracy with blockchain constraints taught us optimization
                 techniques, and user feedback highlighted the need for simpler
